@@ -34,7 +34,11 @@
     "siteFonts": [],
     "uniqCompNum": 2,
     "versionPublish": "4.8.6",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/anonymous-emblem.svg-128x128.png",
+    "noImageResize": "",
+    "google-analytics": "<img src=\"https://statistik.space/piwik/piwik.php?idsite=7&amp;rec=1\" style=\"border:0\" alt=\"\" />",
+    "siteUrl": "undefined"
   },
   "pages": {
     "index.html": {
